@@ -9,6 +9,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![screenshot](https://github.com/lenardatthebreakwater/qr-code-component/assets/142602437/4a481f1e-11ff-4448-be5b-b2110c4937b0)
 
 
+### Links
+[Live Site](https://qr-code-component-r92n.onrender.com/)
+
+
 ### Built with
 
 - HTML5
