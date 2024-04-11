@@ -5,7 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Links
-Live Site URL: [https://lenardatthebreakwater.github.io/qr-code-component/qr_code_component.html](https://lenardatthebreakwater.github.io/qr-code-component/qr_code_component.html)
+Live Site URL: [https://lenardatthebreakwater.github.io/qr-code/qr_code.html](https://lenardatthebreakwater.github.io/qr-code/qr_code.html)
 
 ### Screenshot
 ![Capture](https://github.com/lenardatthebreakwater/qr-code-component/assets/142602437/d9b7cf67-46cf-4d64-ad01-0bb26bca8e9f)
